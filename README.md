@@ -40,10 +40,8 @@
 
 | Версия       | Поддержка          |
 | -------------| ------------------ |
-| v0.3         | Скоро              |
 | v0.2         | :white_check_mark: |
 | v0.1         | :x:                |
 
 ## Обратная связь:
-- ВК: https://vk.com/matrocholo
 - Telegram: https://t.me/MatroCholo
