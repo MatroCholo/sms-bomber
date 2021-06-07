@@ -27,6 +27,7 @@
 - python **sms-bomber.py**
 
 ## Ручная конвертация .py в .exe:
+- Установите **Python 3.x**.
 - Нажмите **Windows + R**, введите **cmd** и нажмите **Enter**,
 - В открывшемся окне введите **pip install pyinstaller requests**,
 - После установки введите:
